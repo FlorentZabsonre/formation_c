@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596295352 source:c:\users\hp\documents\formation_c\langagec  code\tp1_syntaxe_et_structure\main.c
+	<stdio.h>
+	<stdlib.h>
+
